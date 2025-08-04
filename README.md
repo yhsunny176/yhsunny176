@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Yeasinul Haque
 
-### MERN Stack Developer | React.js Specialist | UI/UX Enthusiast
+### MERN Stack User | React.js Developer | UI/UX Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React.js+Specialist;UI%2FUX+Designer;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
