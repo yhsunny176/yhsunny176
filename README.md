@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://i.ibb.co/GvYRcPm9/Github-Banner.png" alt="Banner" width="100%" />
+</p>
+
 # 👋 Hey there! I'm Yeasinul Haque
 
 ### MERN Stack User | React.js Developer | UI/UX Enthusiast
@@ -51,13 +55,13 @@ I'm a passionate **MERN Stack Developer** who thrives on transforming ideas into
 ## Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yhsunny176&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhsunny176&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yhsunny176&theme=tokyonight" alt="yhsunny176's streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhsunny176&theme=tokyonight" alt="yhsunny176's streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhsunny176&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 
 ---
 
