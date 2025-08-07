@@ -27,7 +27,7 @@ I'm a passionate **MERN Stack Developer** who thrives on transforming ideas into
 
 ---
 
-## Tech Mastery
+
 
 <div align="center">
 
@@ -52,13 +52,41 @@ I'm a passionate **MERN Stack Developer** who thrives on transforming ideas into
 
 ---
 
-## Analytics
+
+## 🔗 Social Links
+<p align="center">
+  <a href="https://linkedin.com/in/yeasinulhaquesani/](https://www.linkedin.com/in/yeasinulhaquesani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=ffffff&color=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yhsunny_](https://x.com/yeasinul_haq" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=1DA1F2&labelColor=ffffff&color=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="https://www.behance.net/yeasinulhaq" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-ffffff?style=for-the-badge&logo=behance&logoColor=1877F2&labelColor=ffffff&color=1877F2" alt="Behance"/>
+  </a>
+</p>
+
+
+
+## ⌨️ Current Activities
+
+> *"These are the current activities I am doing right now:"*
+
+- Currently Exploring **Next.js** for front-end development
+- Building my portfolio website, which will be added soon to GitHub.
+- Exploring Natural Language Processing topics and Python.
+
+---
+
+
+## 📈 Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yhsunny176&theme=tokyonight" alt="yhsunny176's streak"/>
 </div>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yhsunny176&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhsunny176&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
