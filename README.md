@@ -85,10 +85,9 @@ I'm a passionate **MERN Stack Developer** who thrives on transforming ideas into
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yhsunny176&theme=tokyonight" alt="yhsunny176's streak"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yhsunny176&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhsunny176&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yhsunny176&theme=moonlight" alt="GitHub Profile Summary" />
+</p>
 
 
 ---
